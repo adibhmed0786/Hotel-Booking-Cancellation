@@ -1,0 +1,11 @@
+# Local source data contains personal-information fields and must not be published.
+hotel_booking.csv
+Data Analysis Using Excel.xlsx
+
+# Local Python and editor files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.vscode/
